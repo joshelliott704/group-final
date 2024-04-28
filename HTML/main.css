@@ -1,3 +1,8 @@
-.center{
-    text-align: center;
+.fit-img{
+    width: 500px;
+}
+
+.background-box{
+    background-color: lightgrey;
+    width: 100%;
 }
